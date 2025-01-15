@@ -18,7 +18,7 @@ font-family: 'Lato', sans-serif;
 2. 	Header
 3.	Menu
 4.	Slider
-5. 	About
+5. 	f
 6. 	Service
 7. 	Statistics
 8. 	Project
@@ -251,7 +251,7 @@ html,body{
 .navbar-default .navbar-nav li a{
 	font-size: 16px;
 	color: #fff;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	margin-top:18px;
 	padding-left: 27px;
 	-webkit-transition: .5s; 
@@ -279,7 +279,7 @@ html,body{
 	background:transparent;
     color: #fff;
 	font-weight:700;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	margin-top:18px;
 	padding-bottom: 25px;
 	padding-left: 27px;
@@ -402,7 +402,7 @@ html,body{
 	color:#fefefe;
 	font-size:24px;
 	max-width:805px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
     line-height: 1.5;
 	margin-bottom:51px;
 }
@@ -417,7 +417,7 @@ html,body{
 	font-size:16px;
 	font-weight:600;
 	text-transform: uppercase;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 	margin-right: 36px;
 	margin-bottom: 30px;
@@ -436,12 +436,12 @@ html,body{
 	 border: 1px solid #fff;
 }
 .single-slide-item.slide-1 {
-	background-image:url(../../assets/images/banner/banner1.jpg);
+	background-image:url(../../assets/images/banner/pexels-mizunokozuki-12899149.jpg);
 	position:relative;
 	z-index:1;
 }
 .single-slide-item.slide-2 {
-	background-image:url(../../assets/images/banner/banner2.jpg);
+	background-image:url(../../assets/images/banner/pexels-vojtech-okenka-127162-392018.jpg);
 	position:relative;
 	z-index:1;
 }
@@ -500,7 +500,7 @@ html,body{
 	color:#fff;
 	font-size: 22px;
 	font-weight:700;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	border-radius: 50%;
 	-webkit-transition:.5s; 
 	-moz-transition:.5s; 
@@ -806,7 +806,7 @@ a:focus.service-btn{
 .project-header h2{
 	color: #44454f;
 	font-size: 30px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 }
 .project-header p{
@@ -880,7 +880,7 @@ a:focus.service-btn{
 .isotope-overlay h3 a,.isotope-overlay  a{
 	color:#fff;	
 	font-size:24px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 .isotope-overlay h3 a{
 	margin-top: 20px;
@@ -888,7 +888,7 @@ a:focus.service-btn{
 .isotope-overlay p{
 	color:#fff;	
 	font-size:14px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	margin-top: 15px;
 }
 .isotope .item:hover .isotope-overlay{
@@ -1033,7 +1033,7 @@ a:focus.learn-btn,
 a:active.learn-btn{
     color: #7086e6;
     font-size:12px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
     text-transform: capitalize;
     margin-top: 8px;
@@ -1133,7 +1133,7 @@ a:active.learn-btn{
 .packeg_p{
 	color: #fff;
     font-size: 40px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
     padding-top: 30px;
     padding: 11px 0 11px;
     -webkit-transition:all 0.3s linear;
@@ -1320,7 +1320,7 @@ a:active.learn-btn{
     display:block;
     font-size:16px;
 	margin-bottom: 17px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
 	font-style: italic ;
 	max-width: 350px;
 	font-weight: 600;
@@ -1343,7 +1343,7 @@ a:focus.learn-btn,
 a:active.learn-btn{
     color: #7086e6;
     font-size:12px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
     text-transform: capitalize;
     margin-top: 8px;
@@ -1568,7 +1568,7 @@ a:active.learn-btn{
 	border: 1px solid #fff;
 	font-size:13px;
 	text-transform: uppercase;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 	-webkit-transition:.5s; 
 	-moz-transition:.5s; 
@@ -1601,7 +1601,7 @@ a:active.learn-btn{
 	color:#fff;
 	font-size:20px;
 	margin-bottom: 32px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
 }
 .hm-foot-title .logo{
@@ -1875,7 +1875,7 @@ a:active.learn-btn{
 .about-history-txt h2{
 	color:#4d4e54;
 	font-size:30px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform:capitalize;
 	font-weight: 600;
 	padding: 16px 0 20px 0;
@@ -1943,7 +1943,7 @@ a:active.learn-btn{
 .experience-time h3 {
     font-size: 16px;
     color: #4d4e54;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
 	text-transform:capitalize;
 	font-weight: 600;
 	margin-top: 14px;
